@@ -35,7 +35,7 @@ A full-stack AI-powered chatbot built using the *MERN stack (MongoDB, Express.js
 
 ### 1. Clone the Repository
 git clone https://github.com/yourusername/My-AI-Assistant.git
-cd AI-Chatbot
+
 
 ### 2. Backend Setup
 cd backend
