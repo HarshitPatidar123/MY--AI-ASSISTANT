@@ -19,13 +19,13 @@ A full-stack AI-powered chatbot built using the *MERN stack (MongoDB, Express.js
 ### Frontend
 - React.js
 - Axios
-- Bootstrap / TailwindCSS (optional)
+- TailwindCSS 
 - JWT for token-based auth
 
 ### Backend
 - Node.js + Express.js
 - MongoDB + Mongoose
-- OpenAI API (or custom NLP logic)
+- Google Gemini API
 - JWT-based authentication
 - Modular MVC structure
 
@@ -51,11 +51,11 @@ npm start
 ---
 
 ### 🌐 API Endpoints (Backend)
-Method	Endpoint	        Description
-POST	/api/user/login	    Login user
-POST	/api/user/register	Register new user
-POST	/api/chat/ask	      Get response from chatbot
-GET	  /api/project	      Get projects for user
+- Method	Endpoint	        Description
+- POST	/api/user/login	    Login user
+- POST	/api/user/register	Register new user
+- POST	/api/chat/ask	      Get response from chatbot
+- GET	  /api/project	      Get projects for user
 
 ### 🙋‍♂ Author
 Harshit Patidar
