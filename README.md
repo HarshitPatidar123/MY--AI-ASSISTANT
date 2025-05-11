@@ -41,7 +41,7 @@ git clone https://github.com/yourusername/My-AI-Assistant.git
 - cd backend
 - npm install
   
-# Add your MongoDB URI and secrets in .env
+## Add your MongoDB URI and secrets in .env
 - npm start
 
 ### 3. Frontend Setup
